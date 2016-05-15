@@ -110,15 +110,18 @@ Syntaxe
 
 ### Féminin ou masculin ?
 
-Nos outils s'adressent à tou·te·s les citoyen·ne·s, mais la langue française impose de faire des choix de genre (féminin ou masculin), avec une préférence pour le masculin « qui l'emporte » dans un groupe.
+Pour combattre les stéréotypes de genre dans la communication, interne comme externe, des pouvoirs publics, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré la [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf) à destination, entre autres, des services de l’État.
 
-Pour éviter de genrer les outils et ainsi faire du design inclusif, construisez des phrases **neutres en genre**.
+Voici 8 recommandations :
 
-Vous pouvez par exemple expliciter le sujet, en utilisant des termes génériques tels que « personne ».
-
-En désespoir de cause, faites apparaître les formulations masculines et féminines dans la même phrase, comme le classique « né(e) en ».
-Cependant, pour fluidifier la lecture, plutôt que des parenthèses, utilisez le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : `·` (`U+00B7`).
-
+1. Éliminer toutes expressions sexistes
+2. Accorder les noms de métiers, titres, grades et fonctions
+3. User du féminin et du masculin dans les messages adressés à tout.e.s
+4. Utiliser l’ordre alphabétique lors d’une énumération
+5. Présenter intégralement l’identité des femmes et des hommes
+6. Ne pas réserver aux femmes les questions sur la vie personnelle
+7. Parler « des femmes » plutôt que de « la femme », de la « journée internationale des droits des femmes » plutôt que de la « journée de la femme » et des « droits humains » plutôt que des « droits de l’homme »
+8. Diversifier les représentations des femmes et des hommes
 
 Typographie
 -----------
