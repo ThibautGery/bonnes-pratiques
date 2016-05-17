@@ -125,7 +125,7 @@ Voici 8 recommandations :
 
 1. Éliminer toutes expressions sexistes
 2. Accorder les noms de métiers, titres, grades et fonctions
-3. User du féminin et du masculin dans les messages adressés à tout·e·s
+3. User du féminin et du masculin dans les messages adressés à toutes et tous
 4. Utiliser l’ordre alphabétique lors d’une énumération
 5. Présenter intégralement l’identité des femmes et des hommes
 6. Ne pas réserver aux femmes les questions sur la vie personnelle
