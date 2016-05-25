@@ -8,14 +8,15 @@ Ici on a le droit...
 - d'oublier des trucs
 - de se présenter
 - de s'appuyer sur l'équipe
-- de demander de l'aide
+- de demander de l'aide  :raising_hand:
 - de ne pas tout savoir
 - d'être taiseux certains jours
 - d'autres jours, de parler fort, de rire et faire des vannes
 - de mettre le casque sur les oreilles
 - de dire "non" quand on n'a pas le temps
 - de faire des erreurs
-- de chanter
+- de chanter :dancer:
+- de danser :dancer:
 - de soupirer
 - de ne pas consulter ses mails sur son temps libre
 - de ne pas consulter ses mails tout le temps au boulot
