@@ -2,7 +2,7 @@ Ici on a le droit...
 
 - de dire "je ne sais pas"
 - de demander pour clarifier quelque chose
-- de rester chez soit quand on se sent mal
+- de rester chez soi quand on se sent mal
 - de dire qu'on n'a pas compris
 - de demander ce que veulent dire les sigles
 - d'oublier des trucs
